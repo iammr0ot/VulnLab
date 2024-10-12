@@ -1,7 +1,7 @@
 
 **BABY** was an easy-rated Windows AD machine that involved enumerating users and their default passwords from their descriptions for initial access. The exploitation of **SeBackupPrivilege** permission was used to dump the **NTDS.dit** file to access the DC.
 
-<img alt="abc"  alt="abc"  src="https://i.imgur.com/opwG34x.png">
+<img alt="abc"  alt="abc"  src="https://i.imgur.com/4VM62PT.png">
 
 # User
 
